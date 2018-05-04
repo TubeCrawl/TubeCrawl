@@ -53,7 +53,7 @@ vimtutor
 
 - Datei mit vim öffnen / mit python durchführen:
 ```
-vim [Dateiname] / python[Dateiname]
+vim [Dateiname] / python [Dateiname]
 ```
 
 - In einen Ordner gehen (Change Directory):
