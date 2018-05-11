@@ -26,6 +26,16 @@ git commit
 ```
 git push origin [branch]
 ```
+- Branch erstellen:
+```
+1.) Auf Github den eigenen Branch erstellen
+
+In der Konsole:
+git branch <name>
+
+Auf den Branch wechseln:
+git checkout <name>
+```
 
 ### Vim
 - in den Einfügemodus gehen: Taste i drücken
