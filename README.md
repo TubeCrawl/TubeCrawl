@@ -26,6 +26,11 @@ git commit
 ```
 git push origin [branch]
 ```
+- Branch wechseln:
+```
+git checkout <name>
+```
+
 - Branch erstellen:
 ```
 1.) Auf Github den eigenen Branch erstellen
